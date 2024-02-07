@@ -1,0 +1,16 @@
+C:\Users\lokna\source\repos\Hripčki in Dolince\Hripčki in Dolince\obj\Debug\Hripčki in Dolince.csproj.AssemblyReference.cache
+C:\Users\lokna\source\repos\Hripčki in Dolince\Hripčki in Dolince\obj\Debug\Hripčki in Dolince.csproj.SuggestedBindingRedirects.cache
+C:\Users\lokna\source\repos\Hripčki in Dolince\Hripčki in Dolince\obj\Debug\Hripčki_in_Dolince.Login.resources
+C:\Users\lokna\source\repos\Hripčki in Dolince\Hripčki in Dolince\obj\Debug\Hripčki_in_Dolince.Home.resources
+C:\Users\lokna\source\repos\Hripčki in Dolince\Hripčki in Dolince\obj\Debug\Hripčki_in_Dolince.Properties.Resources.resources
+C:\Users\lokna\source\repos\Hripčki in Dolince\Hripčki in Dolince\obj\Debug\Hripčki in Dolince.csproj.GenerateResource.cache
+C:\Users\lokna\source\repos\Hripčki in Dolince\Hripčki in Dolince\obj\Debug\Hripčki in Dolince.csproj.CoreCompileInputs.cache
+C:\Users\lokna\source\repos\Hripčki in Dolince\Hripčki in Dolince\bin\Debug\Hripčki in Dolince.exe.config
+C:\Users\lokna\source\repos\Hripčki in Dolince\Hripčki in Dolince\bin\Debug\Hripčki in Dolince.exe
+C:\Users\lokna\source\repos\Hripčki in Dolince\Hripčki in Dolince\bin\Debug\Hripčki in Dolince.pdb
+C:\Users\lokna\source\repos\Hripčki in Dolince\Hripčki in Dolince\obj\Debug\Hripčki in Dolince.exe
+C:\Users\lokna\source\repos\Hripčki in Dolince\Hripčki in Dolince\obj\Debug\Hripčki in Dolince.pdb
+C:\Users\lokna\source\repos\Hripčki in Dolince\Hripčki in Dolince\bin\Debug\Hripčki in Dolince.exe.manifest
+C:\Users\lokna\source\repos\Hripčki in Dolince\Hripčki in Dolince\bin\Debug\Hripčki in Dolince.application
+C:\Users\lokna\source\repos\Hripčki in Dolince\Hripčki in Dolince\obj\Debug\Hripčki in Dolince.exe.manifest
+C:\Users\lokna\source\repos\Hripčki in Dolince\Hripčki in Dolince\obj\Debug\Hripčki in Dolince.application
