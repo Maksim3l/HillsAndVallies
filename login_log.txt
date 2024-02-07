@@ -2,7 +2,7 @@
 2023-05-09 15:07:26 - User admin logged in.
 2023-05-09 15:07:44 - User admin logged in.
 2023-05-09 15:10:13 - User 1 logged in.
-2023-05-09 15:15:27 - User x logged in.
+2023-05-09 15:15:27 - User x@gmail.com logged in.
 2023-05-09 18:24:57 - User admin logged in.
 2023-05-09 18:27:24 - User admin logged in.
 2023-05-09 18:32:38 - User admin logged in.
